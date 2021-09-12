@@ -2,3 +2,4 @@ This is just to upload local files to remote repository (Git)
 And also to practiec staging and commit commands
 Dont consider it.
 Cool
+This line represents an edit from remote repository(Inside GIT)
